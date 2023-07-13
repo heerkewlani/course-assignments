@@ -1,1 +1,3 @@
-https://colab.research.google.com/drive/1qmyDQxpxjoGtTcYn2iCj9PpgbPY3Gd90?usp=sharing
+radiusofthecircle=float(input("Input the radius of the circle" ))
+areaofthecircle= 3.14159265359*radiusofthecircle*radiusofthecircle
+print("The area of the circle with radius",radiusofthecircle, "is", areaofthecircle )
