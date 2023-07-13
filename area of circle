@@ -1,3 +1,1 @@
-radiusofthecircle=float(input("Input the radius of the circle" ))
-areaofthecircle= 3.14159265359*radiusofthecircle*radiusofthecircle
-print("The area of the circle with radius",radiusofthecircle, "is", areaofthecircle )
+
