@@ -1,1 +1,1 @@
-Small projects from the courses that ia have done :)
+Small projects from the courses that I have done :)
